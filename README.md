@@ -3,7 +3,7 @@
 
 ## Building History
 
-In the 1920s this building (describe the building purpose in 1920).  By 1970 (the era of this model), the building housed "Bay Tree Books".
+In the 1920s this building was a real estate agency.  By 1970 (the era of this model), the building housed "Bay Tree Books" and is now the site of Lando Boutique.
 
 - Built: c.tbd
 - Replaced: c.tbd
